@@ -21,7 +21,7 @@ namespace XamarinJavaBindingsDemo.Droid.Services
             _recorder.Start(null);
         }
 
-        public void Stop()
+        public void Pause()
         {
             _recorder.Pause(null);
         }
