@@ -4,8 +4,13 @@
              xmlns:local="clr-namespace:XamarinJavaBindingsDemo"
              x:Class="XamarinJavaBindingsDemo.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+    <Label Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
+    <StackLayout Orientation="Horizontal">
+        <Button Text="Start Recording" />
+        <Button Text="Stop Recording" />
+    </StackLayout>
+
 
 </ContentPage>
