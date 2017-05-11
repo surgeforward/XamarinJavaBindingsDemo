@@ -4,7 +4,7 @@ using Com.Github.Lassana.Recorder;
 
 namespace XamarinJavaBindingsDemo.Droid.Services
 {
-    public class AudioService
+    public class AudioService : IAudioService
     {
         AudioRecorder _recorder;
         public AudioService()
