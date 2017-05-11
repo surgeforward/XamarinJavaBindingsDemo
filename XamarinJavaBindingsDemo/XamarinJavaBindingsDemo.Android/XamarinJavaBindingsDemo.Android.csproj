@@ -137,6 +137,10 @@
       <Project>{fdfdbd84-0bf8-4ef9-903a-72da7d0d210c}</Project>
       <Name>XamarinJavaBindingsDemo</Name>
     </ProjectReference>
+    <ProjectReference Include="AndroidBindings\Binding_ContinuousAudiorecorder\Binding_ContinuousAudiorecorder.csproj">
+      <Project>{DE24EC5B-A2C7-4E66-86C0-36705F6CDE07}</Project>
+      <Name>Binding_ContinuousAudiorecorder</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

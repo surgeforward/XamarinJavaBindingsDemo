@@ -1,0 +1,9 @@
+Binding for:
+com.github.lassana:continuous-audiorecorder:1.3.1
+
+Dependencies:
+
+continuous-audiorecorder-1.3.1.aar,    Path=C:\Users\andrew\.gradle\caches\modules-2\files-2.1\com.github.lassana\continuous-audiorecorder\1.3.1\881228fad5cc1f37158afef37d0579a471d17be8\continuous-audiorecorder-1.3.1.aar
+	support-annotations-23.1.0.jar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar
+	isoparser-1.0.2.jar,    Path=C:\Users\andrew\.gradle\caches\modules-2\files-2.1\com.googlecode.mp4parser\isoparser\1.0.2\6d9a5c5814ec67178dd1d5a25bae874d4697a5b8\isoparser-1.0.2.jar
+	aspectjrt-1.8.0.jar,    Path=C:\Users\andrew\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.0\302d0fe0abba26bbf5f31c3cd5337b3125c744e3\aspectjrt-1.8.0.jar
