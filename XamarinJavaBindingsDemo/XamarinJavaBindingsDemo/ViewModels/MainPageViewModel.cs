@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace XamarinJavaBindingsDemo
+namespace XamarinJavaBindingsDemo.ViewModels
 {
     public class MainPageViewModel
     {

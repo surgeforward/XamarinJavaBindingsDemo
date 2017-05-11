@@ -1,6 +1,7 @@
 ﻿using Prism.Unity;
 
 using Xamarin.Forms;
+using XamarinJavaBindingsDemo.Views;
 
 namespace XamarinJavaBindingsDemo
 {
@@ -16,8 +17,8 @@ namespace XamarinJavaBindingsDemo
 
         protected override void RegisterTypes()
         {
-            Container.RegisterTypeForNavigation<NavigationPage>();
-            Container.RegisterTypeForNavigation<MainPage>();
+            Container.RegisterTypeForNavigation<NavigationPage>("Navigation");
+            Container.RegisterTypeForNavigation<MainPage>("Main");
         }
     }
 }
