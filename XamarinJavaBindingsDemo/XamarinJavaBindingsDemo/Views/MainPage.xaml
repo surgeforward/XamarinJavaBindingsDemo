@@ -10,7 +10,7 @@
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
     <StackLayout Orientation="Horizontal">
-        <Button Text="Start Recording" Command="{Binding Start}" />
+        <Button Text="Start Recording" Command="{Binding Start}"  />
         <Button Text="Stop Recording" Command="{Binding Stop}"/>
     </StackLayout>
 </ContentPage>
